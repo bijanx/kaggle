@@ -3,7 +3,8 @@
 *.csv
 .Rhistory
 .RData
+kaggle-web-traffic/
 */*.csv
 */images/*
-*/__pycache__/*
 */*.gz
+*.gz
